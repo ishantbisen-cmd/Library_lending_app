@@ -1,0 +1,13 @@
+# Build output
+target/
+
+# Logs are generated at runtime
+logs/*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
