@@ -2,11 +2,20 @@
 
 **Student:** Ishant Bisen  
 **Date:** 22 September 2026  
-**Project:** `library-lending-app` (local only — this assignment does **not** use GitHub)  
+**Project:** `library-lending-app`  
 **Primary AI tool:** Antigravity CLI (`agy`)  
 **MCP server:** Filesystem MCP, scoped to `/Users/ishant.bisen/Downloads/library-lending-app`
 
 This app is **not broken**. The work is to understand an unfamiliar service through AI + Filesystem MCP, not to patch a crash.
+
+---
+
+## Submission links
+
+| Deliverable | URL |
+|---|---|
+| GitHub repository | https://github.com/ishantbisen-cmd/Library_lending_app |
+| Filesystem MCP demo | https://drive.google.com/file/d/1AveB6Dvr0egixOd2nhuES6N5Am9drXHh/view?usp=sharing |
 
 ---
 
@@ -274,7 +283,7 @@ I did not open every class in order. I asked the Filesystem MCP to search for `b
 
 | Brief item | Status |
 |---|---|
-| Unzip locally, no GitHub | Done |
+| Unzip locally | Done |
 | Optional `mvn test` / `exec:java` | Done — 6/6, four scenarios as designed |
 | Filesystem MCP scoped to this folder | Done |
 | Verify list/read before starting | Done |
@@ -283,3 +292,5 @@ I did not open every class in order. I asked the Filesystem MCP to search for `b
 | Task 3 flow to saved loan | 12-step path |
 | Task 4 layers + Mermaid diagrams | Two diagrams |
 | Own words + how MCP changed the work | Section above |
+| GitHub repository | https://github.com/ishantbisen-cmd/Library_lending_app |
+| MCP demo video | https://drive.google.com/file/d/1AveB6Dvr0egixOd2nhuES6N5Am9drXHh/view?usp=sharing |
